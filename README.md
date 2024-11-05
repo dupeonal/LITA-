@@ -41,6 +41,9 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+### Data Visualization
+---
+[Retail Sales Dataset.zip](https://github.com/user-attachments/files/17630149/Retail.Sales.Dataset.zip)
 
               
   
