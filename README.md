@@ -2,6 +2,20 @@
 
 ### Project Title:  Data Cleaning, Analysing and creating Visualization
 ---
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+Data Analysis
+
+Data Visualization
+
 ### Project Overview
 ---
 In this project i am cleaning, Analysing and creating Visualization to make data easily accessible of ease use. 
