@@ -16,6 +16,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Conclusion](#conlusion)
+
 ### Project Overview
 ---
 In this project i am cleaning, Analysing and creating Visualization to make data easily accessible of ease use. 
@@ -57,7 +59,14 @@ WHERE CONDITION = TRUE
 ```
 ### Data Visualization
 ---
-[Retail Sales Dataset.zip](https://github.com/user-attachments/files/17630149/Retail.Sales.Dataset.zip)
+![Screenshot  for text Cleaning (2)](https://github.com/user-attachments/assets/6041c976-89b7-4356-85aa-f286994ee0dc)![Screenshot for text cleaning 4](https://github.com/user-attachments/assets/d093285e-2331-4f50-be8e-905483988654)![Screenshot for text cleaning 3](https://github.com/user-attachments/assets/130e5df8-f9d9-483f-8587-550d7ed2fe76)![Screenshot vlookup](https://github.com/user-attachments/assets/be7bd15e-d19b-4b6a-8d80-02e93a99976a)
+![Screenshot building visuals with pivot table](https://github.com/user-attachments/assets/2c07710f-5a62-4215-a154-845a7f95a30c)
+
+### Conclusion
+
+It was impactful, moment worstwhile.
+
+
 
               
   
